@@ -5,4 +5,3 @@
 def multiplier(iNum1,iNum2):
     results = iNum1 * iNum2
     return results
-
